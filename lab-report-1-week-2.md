@@ -9,8 +9,12 @@
   ![vs code term conditions](https://user-images.githubusercontent.com/103228508/162542423-735c9124-6d0b-43c5-9805-c1652476acd9.png)
 3.  Select from options (to your liking)
 4.  And your done with your setup! Enjoy!
+
 ## Remote Access Steps!
-1. type in ssh cs15lsp22awu@ieng6.ucsd.edu
+1. type in "ssh cs15lsp22awu@ieng6.ucsd.edu" and type your password (hopefully already reset, if not go do that now!!) 
+*Additional Note: You won't see your password as you type it in so don't fear when you can't see it!*
+![Screenshot 2022-03-31 184158](https://user-images.githubusercontent.com/103228508/162542966-4176c5e0-732a-4f0a-882f-5076e2a7aa49.png)
+
 2. (maybe fingerprinting question?) type “yes”
 3. then type password
 4. trying commands
