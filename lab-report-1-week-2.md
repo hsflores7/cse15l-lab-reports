@@ -11,13 +11,13 @@
 4.  And your done with your setup! Enjoy!
 
 ## Remote Access Steps!
-1. type in "ssh cs15lsp22awu@ieng6.ucsd.edu" and type your password (hopefully already reset, if not go do that now!!) 
-*Additional Note: You won't see your password as you type it in so don't fear when you can't see it!*
+1. type in "ssh cs15lsp22awu@ieng6.ucsd.edu" 
+2. You might get a question about fingerpringting and if so just type “yes”
+3. Type your password (hopefully already reset, if not go do that now!!) *Additional Note: You won't see your password as you type it in so don't fear when you can't see it!*
 ![Screenshot 2022-03-31 184158](https://user-images.githubusercontent.com/103228508/162542966-4176c5e0-732a-4f0a-882f-5076e2a7aa49.png)
 
-2. (maybe fingerprinting question?) type “yes”
-3. then type password
-4. trying commands
+## Commands!
+* Go ahead and try commands, with the outcome I came across!
 	1. cd ~
 		- file system starts at home
 	2. cd <file>
@@ -25,22 +25,21 @@
 	3. ls -lat
 		- brings up a list of hidden files
 		- does -a, -l, and -t things at the same time
+	![ls -lat command](https://user-images.githubusercontent.com/103228508/162543941-3d44722e-efd8-4f07-9354-396e4c2c1d4d.png)
 	4. ls -l
 		- number of public files and public files
 	5. ls  -a 
 		- brings up files
+	![ls -a command](https://user-images.githubusercontent.com/103228508/162543927-056c7446-7490-496c-94cf-282e47190199.png)
 	6. ls  <directory> 
+		- *having windows causes the need for different commands (e.i. dir instead of ls)*
 		- access denied (could be because their password isn’t work atm)
 		- brings up accounts public folders
 	7. ls -t 
 		- brings up public folders
 	8. cp <directory>
-		- permission denied
-	9. to close/disconnect
-		- exit or crlt-d
-	10. 
+		- permission denied - likely due to the directory that was chosen couldn't have been accessed by my account(?)
+	9. exit or crlt-d
+		- to close/disconnect from the server
 
-
-
-having windows causes the need for different commands (e.i. dir instead of ls)
-cd works the same
+## Moving files with scp
