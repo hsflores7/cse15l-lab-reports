@@ -12,9 +12,9 @@
 4.  And your done with your setup! Enjoy!
 
 ## Remote Access Steps!
-1. type in "ssh cs15lsp22awu@ieng6.ucsd.edu" 
+1. type in "ssh cs15lsp22XXX@ieng6.ucsd.edu" replace "xxx" with your 3 letter code.
 2. You might get a question about fingerpringting and if so just type “yes”
-3. Type your password (hopefully already reset, if not go do that now!!) *Additional Note: You won't see your password as you type it in so don't fear when you can't see it!*
+3. Type your password (hopefully already reset, if not go do that now!!) *Additional Note: You won't see your password as you type it in so don't fear when you can't see it!* *Also! You might have to keep trying to put your password in several times even if you think you typed it right it might just say you are wrong and you need to try again.*
 ![Screenshot 2022-03-31 184158](https://user-images.githubusercontent.com/103228508/162582133-5ca59bc3-b837-420d-af96-e471b205e630.png)
 
 ## Commands!
@@ -44,6 +44,13 @@
 		- to close/disconnect from the server
 
 ## Moving files with scp
+* After creating a java file on YOUR device (so if you are logged into the server log off)
+* Then you can run the **scp** command and add the file and then the server login plus ":~/" (represents you want in the home directory
+![where am i edit](https://user-images.githubusercontent.com/103228508/162583014-b0193db5-b4cf-45f4-8daf-6ea8d4f876fa.png)
+* To double check it worked you can log back onto the server and check the file list (with ls as pictured above)
+* Then you can use javac and java to run the program from the server!
+
+## Setting an SSH Key
 
 	
 	
