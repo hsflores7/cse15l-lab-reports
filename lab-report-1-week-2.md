@@ -44,11 +44,11 @@
 		- to close/disconnect from the server
 
 ## Moving files with scp
-* After creating a java file on YOUR device (so if you are logged into the server log off)
-* Then you can run the **scp** command and add the file and then the server login plus ":~/" (represents you want in the home directory
+1. After creating a java file on YOUR device (so if you are logged into the server log off)
+2. Then you can run the **scp** command and add the file and then the server login plus ":~/" (represents you want in the home directory
 ![where am i edit](https://user-images.githubusercontent.com/103228508/162583014-b0193db5-b4cf-45f4-8daf-6ea8d4f876fa.png)
-* To double check it worked you can log back onto the server and check the file list (with ls as pictured above)
-* Then you can use javac and java to run the program from the server!
+3. To double check it worked you can log back onto the server and check the file list (with ls as pictured above)
+4. Then you can use javac and java to run the program from the server!
 
 ## Setting an SSH Key
 
