@@ -2,7 +2,7 @@
 [Main Page](https://hsflores7.github.io/cse15l-lab-reports/index.html)
 
 ## Instlling VS Code
-1. Go to the VS Code website, looking up "vs code download" should do the trick! 
+1. Go to the [VS Code website](https://code.visualstudio.com/Download)
    And the select the option that is best for you! (Windows, Apple, or Linux)
   ![vs code](https://user-images.githubusercontent.com/103228508/162542180-e62e1f81-2e46-471b-8c9d-df9f231e7622.png)
 2.  Accept terms and services
