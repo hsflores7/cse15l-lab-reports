@@ -11,9 +11,24 @@
 ## Error-inducting test-file
 [new.md](https://github.com/hsflores7/cse15l-lab-reports/files/8550287/new.md)
 
-The final line is an empty line and this would cause an error without the breaks between each 
+The final line is an empty line and this would cause an error without the breaks as well as if the final line wasn't a link, as to say if the finel was just text like on of the orignal way this file was written:
+```
+[a-funny-link](funny.com)
+does this break it?!?
+```
+And this version did indeed break the code pre-breaks.
 
-## Sympoms of Error
+## Symptom of Error
+![breaking new test](https://user-images.githubusercontent.com/103228508/164991082-ae8174ec-be5f-4a7e-9ff4-f773c0f32632.png)
 
 
 ## About the Error
+**Bug:** The code lacked a way to deal with a situation, specifically in the getLinks method
+**Symptom:** The symptom was an error message not allowing for the code to compile when the file included the above complications
+**Failure inducing inputs:** If the final line wasn't a link or if the brackets were not in the link sequence `[]()`
+
+
+**Bug:** The code lacked a way to deal with a situation, specifically in the Main method
+**Symptom:** The symptom was an error message not allowing for the code to compile when the file included the above complications
+**Failure inducing inputs:** If no aguments were placed then the getLinks method would cause an error as there wasn't an args to get the links from
+
