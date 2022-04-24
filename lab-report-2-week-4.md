@@ -25,7 +25,7 @@ And this version did indeed break the code pre-breaks.
 ![breaking new test](https://user-images.githubusercontent.com/103228508/164991082-ae8174ec-be5f-4a7e-9ff4-f773c0f32632.png)
 
 
-## About the Error
+## About the Errors
 ### Error 1: Bracket Crash
 **Bug:** The code lacked a way to deal with a situation, specifically in the getLinks method
 **Symptom:** The symptom was an error message not allowing for the code to compile when the file included the above complications
