@@ -1,4 +1,4 @@
-# Lab Report 1
+# Lab Report 2
 
 [Main Page](https://hsflores7.github.io/cse15l-lab-reports/index.html)
 
