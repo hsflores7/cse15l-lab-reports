@@ -5,9 +5,11 @@
 
 ## Updates
 * **Fix One**: Adding the if -1 then break
-* **Fix Two**: Adding the if statement in Main
-* **Fix Three**: Adding a filter so only links with valid charaters make the list
+* **Fix Two**: Adding the if statement in Main 
+
+*Image below shows both fix one and fix two*
 ![updates](https://user-images.githubusercontent.com/103228508/164990778-6e654f9d-362b-4ca1-94e6-35ee5fc6be71.png)
+* **Fix Three**: Adding a filter so only links with valid charaters make the list
 ![3rd edit](https://user-images.githubusercontent.com/103228508/164992978-664d79aa-c388-41fb-bdeb-6f91e256791f.png)
 
 
