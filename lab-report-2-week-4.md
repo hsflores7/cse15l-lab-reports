@@ -23,6 +23,9 @@ does this break it?!?
 And this version did indeed break the code pre-breaks.
 
 ### Error 2: No Argument
+[nothing.md](https://github.com/hsflores7/cse15l-lab-reports/files/8587803/nothing.md)
+
+*Like I've said it doesn't require a test but, here is one anyway*
 It is more of the absence of file than a file in particular.
 
 ### Error 3: Invalid Link
