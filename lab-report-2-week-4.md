@@ -23,13 +23,22 @@ does this break it?!?
 And this version did indeed break the code pre-breaks.
 
 ### Error 2: No Argument
-
+It is more of the absence of file than a file in particular.
 
 ### Error 3: Invalid Link
+[another-test.md](https://github.com/hsflores7/cse15l-lab-reports/files/8587767/another-test.md)
 
+If this test ran after the first fix and before the 3rd then it would print the link in the list even though it isn't a legel link
 
 ## Symptom of Error
+### Error 1: Breaket Crash 
 ![breaking new test](https://user-images.githubusercontent.com/103228508/164991082-ae8174ec-be5f-4a7e-9ff4-f773c0f32632.png)
+
+### Error 2: No Argument
+![no args](https://user-images.githubusercontent.com/103228508/165874070-3e09fbc0-5fe3-4d0b-b420-9171c09c7b1d.png)
+
+### Error 3: Invalid Link
+![image](https://user-images.githubusercontent.com/103228508/165877658-cf7e68b3-7a28-415d-847b-c349ff397762.png)
 
 
 ## About the Errors
