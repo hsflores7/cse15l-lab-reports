@@ -12,6 +12,7 @@
 
 
 ## Error-inducting test-file
+### Error 1: Breaket Crash
 [new.md](https://github.com/hsflores7/cse15l-lab-reports/files/8550287/new.md)
 
 The final line is an empty line and this would cause an error without the breaks as well as if the final line wasn't a link, as to say if the finel was just text like on of the orignal way this file was written:
@@ -20,6 +21,12 @@ The final line is an empty line and this would cause an error without the breaks
 does this break it?!?
 ```
 And this version did indeed break the code pre-breaks.
+
+### Error 2: No Argument
+
+
+### Error 3: Invalid Link
+
 
 ## Symptom of Error
 ![breaking new test](https://user-images.githubusercontent.com/103228508/164991082-ae8174ec-be5f-4a7e-9ff4-f773c0f32632.png)
