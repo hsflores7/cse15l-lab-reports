@@ -28,5 +28,6 @@ Located on server account -> .ssh -> authorized_keys
 
 ### Running git Commmands
 *Creating a line to commit*
+
 ![image](https://user-images.githubusercontent.com/103228508/167326991-0dc3d08e-c25d-4f55-8049-0547b7a60180.png)
 
