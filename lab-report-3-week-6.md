@@ -18,10 +18,12 @@
 
 ### Public Key on Github
 Located in Github -> Setting -> SSH and GPG keys
+
 ![image](https://user-images.githubusercontent.com/103228508/167325631-e7cb75e8-7f75-43ee-a715-569a8ac21817.png)
 
 ### Private Key on Sever
-Located on server account -> .ssh -> authorized_keys
+Located on server account -> .ssh -> authorized_keys 
+
 ![image](https://user-images.githubusercontent.com/103228508/167325876-bc3b4c94-e13d-43dd-9c20-9ebe293c726c.png)
 
 ### Running git Commmands
