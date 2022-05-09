@@ -30,3 +30,17 @@ Located on server account -> .ssh -> authorized_keys
 
 ![image](https://user-images.githubusercontent.com/103228508/167326991-0dc3d08e-c25d-4f55-8049-0547b7a60180.png)
 
+![image](https://user-images.githubusercontent.com/103228508/167329354-5b426a65-5d23-4bcb-935a-9d15e85da7c4.png)
+
+
+## Copy whole directories with scp -r
+### Copying markdown-parse
+
+For my understanding this image includes all of the commit file (correct me if I'm wrong)
+![image](https://user-images.githubusercontent.com/103228508/167335192-a3a3a470-c094-48ff-9383-306c7a467d2f.png)
+
+### Running tests
+![image](https://user-images.githubusercontent.com/103228508/167335883-2f312382-4db9-4ece-a8ee-44b355c0a4b3.png)
+
+### Combining scp
+![image](https://user-images.githubusercontent.com/103228508/167336906-0d9e5df6-9690-47dd-bbd6-064c3e408cff.png)
