@@ -4,12 +4,19 @@
 ## Streamlining ssh Configuration
 
 ### Config File
+Add these lines:
+`Host ieng6`
+`HostName ieng6.ucsd.edu`
+`User cs15lsp22<your-three-letter-code>`
+
 ![image](https://user-images.githubusercontent.com/103228508/167325344-6cf83cee-9661-4774-97b6-8db7a3cf7f31.png)
 
 ### ssh Login
+Now you can log in with the shortcut you made, which is the first line of your config file `ieng6`
 ![image](https://user-images.githubusercontent.com/103228508/167325399-35c143da-8308-44a9-8e8b-2c3e38bf25b0.png)
 
 ### scp Command with Login
+You can also run command from your local device with the `scp` command using your new shortcut!
 ![image](https://user-images.githubusercontent.com/103228508/167325204-bda08e5a-fd70-4829-9dce-812078f69c66.png)
 
 
