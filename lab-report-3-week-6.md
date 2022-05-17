@@ -22,7 +22,7 @@ You can also run command from your local device with the `scp` command using you
 
 
 ## Setup Github Access from ieng6
-Setup a key on GitHub then 
+Setup a key on GitHub then you can run push from your ieng6!
 ### Public Key on Github
 Located in Github -> Setting -> SSH and GPG keys
 
@@ -35,10 +35,13 @@ Located on server account -> .ssh -> authorized_keys
 
 ### Running git Commmands
 
+pull command
 ![image](https://user-images.githubusercontent.com/103228508/167326991-0dc3d08e-c25d-4f55-8049-0547b7a60180.png)
 
+commit command
 ![image](https://user-images.githubusercontent.com/103228508/167329354-5b426a65-5d23-4bcb-935a-9d15e85da7c4.png)
 
+push command
 
 ## Copy whole directories with scp -r
 ### Copying markdown-parse
