@@ -35,14 +35,25 @@ Located on server account -> .ssh -> authorized_keys
 
 ### Running git Commmands
 
-pull command
+**pull command**
+
 ![image](https://user-images.githubusercontent.com/103228508/167326991-0dc3d08e-c25d-4f55-8049-0547b7a60180.png)
 
-commit command
+**commit command**
+
 ![image](https://user-images.githubusercontent.com/103228508/167329354-5b426a65-5d23-4bcb-935a-9d15e85da7c4.png)
 
-push command
+**push command**
 
+Could not get it to work so far but you would use the `git push origin main` command after adding and commiting within the 
+directory you want to push to GitHub.
+
+Here is the problems I ran into (several other TAs have been unable to find a solution):
+![image](https://user-images.githubusercontent.com/103228508/168731778-8ab5bbd8-e908-4e37-a38d-94bd6343475b.png)
+
+* It seems that the Disk on my server account is full and I don't know how to empty or force it to give more space and this occured when I tried the url-set command with the SSH link from GitHub
+* Another possible problem is the keys but I've tried a lot of different key things and had several TAs set up keys with me and none of them seems to remove the problems of having to put in the password for GitHub on the server.
+Here is [my Piazza Post](https://piazza.com/class/l0lgl3r7ph370k?cid=609) about it as well if you have any ideas of how to solve the problem(s)
 ## Copy whole directories with scp -r
 ### Copying markdown-parse
 
