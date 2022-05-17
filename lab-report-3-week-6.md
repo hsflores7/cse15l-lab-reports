@@ -22,7 +22,7 @@ You can also run command from your local device with the `scp` command using you
 
 
 ## Setup Github Access from ieng6
-
+Setup a key on GitHub then 
 ### Public Key on Github
 Located in Github -> Setting -> SSH and GPG keys
 
